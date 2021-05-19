@@ -1,6 +1,7 @@
 name: flutter_wgl
 description: A dart plugin to access webgl (chronos_gl)
 version: 0.0.1
+homepage: https://github.com/iamSahdeep/flutter_wgl
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
