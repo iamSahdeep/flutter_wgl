@@ -1,4 +1,4 @@
-# flutter_cronosgl
+# flutter_wgl
 
 A new Flutter package.
 
